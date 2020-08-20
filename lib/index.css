@@ -268,7 +268,7 @@ hr.grey:before {
   z-index: 1;
 }
 .header {
-  padding-top: 15px;
+  /* padding-top: 15px; */
 }
 @media print {
   .header {
@@ -445,4 +445,8 @@ body {
 
 .job.skills h2 {
   margin: 0.75rem 0 0.25rem 0;
+}
+
+.min {
+  margin-top: 1rem;
 }
